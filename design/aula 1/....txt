@@ -1,0 +1,14 @@
+
+1. Evite grandes mudanças no layout- 13 trocas de layout encontradas
+2. Elemento de Maior exibição de conteúdo- 1.780 ms
+3. Os elementos de imagem não têm width e height explícitas
+4. Evite payloads de rede muito grandes -O tamanho total foi de 3.420 KiB
+5. Evite DOM de tamanho excessivo- 7.564 elementos
+6. O tempo de resposta inicial do servidor foi curto- O documento raiz levou 170 ms
+7. limine recursos que impedem a renderização- Possível economia de 380 ms
+8. Evitar a exibição de JavaScript legado em navegadores modernos -Possível economia de 0 KiB
+9. Evitar encadeamento de solicitações críticas- 51 redes encontradas
+10. Elimine recursos que impedem a renderização- Possível economia de 380 ms
+11. Os botões não têm um nome acessível
+12. Erros do navegador foram registrados no console
+13. O documento não tem uma metadescrição
