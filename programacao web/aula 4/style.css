@@ -1,0 +1,10 @@
+body{background-color: rgb(170, 214, 216);}
+h1{font-size: 100px; text-align: center; color: aliceblue;}
+span{border: solid 2px aliceblue;font-size: 30px;}
+.formato1{color: aliceblue;}
+#formato2{color: rgb(162, 164, 196);}
+div{border: solid 2px aliceblue;font-size: 30px;}
+#formato3{background-color: rgb(207, 228, 207);}
+#formato4{background-color: aliceblue;}
+#formato5{background-color: rgb(207, 228, 207);}
+#formato6{background-color: rgb(170, 214, 216); width: 450px; height: 450px; margin: 20px auto; border-radius: 30px;background-image: url(https://media4.giphy.com/media/D9guLzYdtldbPYmJph/giphy.gif?cid=6c09b952w91o4be12pnazey1w1drc5qm2nwayq9xuy79cnqn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g); background-size: 100% 100%;}

@@ -1,0 +1,14 @@
+body{background-color: rgb(67, 14, 14);
+}
+h1{font-size: 100px;color: rgb(194, 181, 129);text-align: center;
+}
+h2{font-size: 50px;color: rgb(194, 172, 127); text-align: center;
+}
+hr{border-color:  rgb(194, 172, 127);
+}
+h3{font-family: fantasy;color:rgb(194, 172, 127) ;font-size:50px ;text-align: center;
+}
+p{font-size: 50px;color:rgb(194, 172, 127) ;text-align: center;
+}
+img{width: 1080px;display: block;margin:140px auto;border: solid 2px rgb(194, 172, 127) ;border-radius: 40px;
+}
